@@ -2,6 +2,7 @@ package com.viewpagerindicator.sample;
 
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
+
 import com.viewpagerindicator.LinePageIndicator;
 
 public class SampleLinesStyledLayout extends BaseSampleActivity {
