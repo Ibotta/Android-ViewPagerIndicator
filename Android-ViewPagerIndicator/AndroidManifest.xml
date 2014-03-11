@@ -6,7 +6,7 @@
     android:versionName="2.4.1">
 
     <uses-sdk
-        android:minSdkVersion="8"
+        android:minSdkVersion="9"
         android:targetSdkVersion="19"/>
 
     <application/>
