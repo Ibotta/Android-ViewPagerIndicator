@@ -14,7 +14,7 @@ buildscript {
 apply plugin: 'android-library'
 
 dependencies {
-    compile([group: 'com.android.support', name: 'appcompat-v7', version: '25.+'])
+    compile([group: 'com.android.support', name: 'appcompat-v7', version: '25.0.0'])
 }
 
 android {
@@ -57,5 +57,3 @@ android {
         exclude 'META-INF/LICENSE'
     }
 }
-
-
